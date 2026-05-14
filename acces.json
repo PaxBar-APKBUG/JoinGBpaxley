@@ -1,14 +1,5 @@
 {
-  "users": [
-    "7737156918"
-  ],
+  "users": [],
   "groups": [],
-  "users_detail": {
-    "7737156918": {
-      "expired": 1779157589979,
-      "daily_limit": 1,
-      "limit_used": 1,
-      "last_reset": "Thu May 14 2026"
-    }
-  }
+  "users_detail": {}
 }
