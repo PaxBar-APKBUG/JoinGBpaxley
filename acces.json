@@ -21,8 +21,8 @@
     "7898566513": {
       "expired": 1785368406276,
       "daily_limit": 7,
-      "limit_used": 0,
-      "last_reset": "Sat May 30 2026"
+      "limit_used": 1,
+      "last_reset": "Sun May 31 2026"
     }
   }
 }
