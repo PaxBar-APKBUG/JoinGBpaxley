@@ -7,8 +7,8 @@
     "6918272953": {
       "expired": 1783233735620,
       "daily_limit": 5,
-      "limit_used": 5,
-      "last_reset": "Fri Jun 05 2026"
+      "limit_used": 1,
+      "last_reset": "Mon Jun 08 2026"
     }
   }
 }
