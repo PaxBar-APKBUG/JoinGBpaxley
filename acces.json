@@ -14,8 +14,8 @@
     "6918272953": {
       "expired": 1786612128387,
       "daily_limit": 15,
-      "limit_used": 14,
-      "last_reset": "Thu Jul 30 2026"
+      "limit_used": 1,
+      "last_reset": "Thu Aug 13 2026"
     }
   }
 }
